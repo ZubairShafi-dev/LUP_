@@ -1,3 +1,4 @@
+![WhatsApp Image 2025-12-13 at 22 14 29_237e1dcf](https://github.com/user-attachments/assets/c53d8c41-6b3a-4b2c-801c-151ca2d4037c)
 # LUP_
 
 LUP – YOUR PERSONAL READING COMPANION
@@ -37,7 +38,8 @@ High-quality, human-like multi-language reading experience with adjustable speed
 
 🗄️ Room Database
 
-Local storage to save reading history, recent texts, scans, and user preferences for fast of
+Local storage to save readin
+g history, recent texts, scans, and user preferences for fast of
 
 ☁️ Firebase Integration
 
@@ -52,4 +54,5 @@ ScreeenShoots:
 <img width="412" height="917" alt="Frame 1234570382" src="https://github.com/user-attachments/assets/3016bedf-cbea-409e-8803-16e25697b43b" />
 <img width="412" height="917" alt="Frame 1234570367" src="https://github.com/user-attachments/assets/5006249a-a8c4-41a0-a8fc-b8ff681207cc" />
 <img width="412" height="917" alt="Frame 1234570313" src="https://github.com/user-attachments/assets/27bb1417-be7f-4d2e-970a-37fd04cd251a" />
+
 
